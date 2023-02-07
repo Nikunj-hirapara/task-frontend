@@ -1,5 +1,10 @@
 # Getting Started with Create React App
 
+Instruction:
+After creating add task : user can move between pending to completed task by drag n drop
+Edit and delete functionality included
+ 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
